@@ -1,10 +1,10 @@
-## MADDEMO
+## MadDemo
 
 ### App Description
 Text Color Change
 
 ### App Walk-through
-<img src = "https://i.imgur.com/CWYiXp2.gifv" width=200><br>
+<img src = "https://i.imgur.com/CWYiXp2.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
